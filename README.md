@@ -1,5 +1,4 @@
 ### Hi there 👋 I am Tian
-
 📊 Econ @ Hitotsubashi University (M.A., 2024–2026)<br/>
 📄 [Decoding Motor Behavior with Deep Learning & Reservoir Computing](https://arxiv.org/pdf/2512.06725) (M.A thesis) @ Hitotsubashi University<br/>
 🎓 Information & Communication Eng. @ Institute of Science Tokyo (M.Eng., 2026–)<br/>
@@ -8,7 +7,6 @@
 
 
 ### Leadership and Achievements
-
 🇨🇳 Co-founder @ Student Startup (¥1.1M JPY funding)<br/>
 🥉 Bronze Award @ Innovation & Entrepreneurship Competitions<br/>
 📊 14th Place (304 teams) @ DTRA J-League Prediction 2024<br/>
@@ -16,7 +14,7 @@
 
 
 ### Languages & Tools
-
+<p>
 <img src="https://img.shields.io/badge/-Java-f89820?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/-TypeScript-8e7cc3?style=flat&logo=typescript&logoColor=black">
@@ -26,5 +24,6 @@
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
 <img src="http://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=aws&logoColor=ffffff">
-<img src="http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=aws&logoColor=ffffff"> 
+<img src="http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF"> 
+</p>
