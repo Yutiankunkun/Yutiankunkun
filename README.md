@@ -9,7 +9,7 @@
 ### Leadership and Achievements
 🇨🇳 Co-founder @ Student Startup (¥1.1M JPY funding)<br/>
 🥉 Bronze Award @ Innovation & Entrepreneurship Competitions<br/>
-📊 14th Place (304 teams) @ DTRA J-League Prediction 2024<br/>
+📊 14th Place (311 teams) @ DTRA J-League Prediction 2024<br/>
 ⚙️ Data Scientist Workshop @ Fujitsu Seasonal Internship (Summer 2024) <br/>
 
 
